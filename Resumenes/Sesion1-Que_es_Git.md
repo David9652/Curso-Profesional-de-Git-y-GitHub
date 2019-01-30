@@ -4,7 +4,7 @@
 
 + Un sistema de control de versiones es el conjunto de herramientas que tenemos disponibles para poder gestionar de una forma eficiente las distintas versiones de nuestros proyectos.
 
-## Características Importantes Git
+## Características Importantes de Git
 
 + Usualmente otros sistemas almacenan información en una lista de cambios de archivos, mientras Git lo hace como un conjunto de archivos.
 
