@@ -8,7 +8,7 @@
 
 + Usualmente otros sistemas almacenan información en una lista de cambios de archivos, mientras Git lo hace como un conjunto de archivos.
 
-+ La integridad con la que cuenta es bastante seria. No existen cambios, corrupción en archivos cualquier alteración sin que Git lo sepa. Esto funciona gracias a una verificación con la que cuenta mediante un Checksum.
++ La integridad con la que cuenta es bastante seria. No existen cambios, corrupción en archivos o cualquier alteración sin que Git lo sepa. Esto funciona gracias a una verificación con la que cuenta mediante un Checksum.
 
 + Casi todo en Git es local, basta con los recursos locales con los que cuenta.
 
