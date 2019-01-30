@@ -1,6 +1,6 @@
 # Sesión 2 - ¿Qué es GitHub?
 
-+ GitHub es un servicio de alojamiento que ofrece a los desarrolladores repositorios de software usando el sistema de control de versiones, Git..
++ GitHub es un servicio de alojamiento que ofrece a los desarrolladores repositorios de software usando el sistema de control de versiones, Git.
 
 ## Características de GitHub
 
