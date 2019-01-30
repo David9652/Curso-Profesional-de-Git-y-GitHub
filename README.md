@@ -1,2 +1,2 @@
 # Curso-Profesional-de-Git-y-GitHub
-Resumen de todo lo aprendido durante el curso.
+Entiende e implementa Git y Github en tu flujo de trabajo. Son el estándar de la industria para control de versiones de código y tus proyectos. De cero a avanzado. Resumen de todo lo aprendido durante el curso de Platzi.
