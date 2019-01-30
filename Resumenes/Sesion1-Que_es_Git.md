@@ -1,4 +1,4 @@
-#Sesión 1 - ¿Qué es Git?
+# Sesión 1 - ¿Qué es Git?
 
 + Es un sistema de control de versiones que originalmente fue diseñado para operar en un entorno Linux.
 
