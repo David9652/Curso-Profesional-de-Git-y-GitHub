@@ -1,3 +1,3 @@
-# Sesión 9 - Instalación y Configuración de Git (Ubuntu) 
+# Sesión 9 - Instalación Git en Linux (Ubuntu) 
 
 + `sudo apt-get install git`
