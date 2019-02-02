@@ -11,6 +11,6 @@
 
 ## Comandos VIM
 
-+ :wq &rarr; Write Quit.
-+ i &rarr; Para Editar.
-+ :q! &rarr; Salir Sin Guardar.
++ `:wq` &rarr; Write Quit.
++ `i` &rarr; Para Editar.
++ `:q!` &rarr; Salir Sin Guardar.
